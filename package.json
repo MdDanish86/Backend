@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Test app for backend",
+  "homepage": "https://github.com/MdDanish86/Backend#readme",
+  "bugs": {
+    "url": "https://github.com/MdDanish86/Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdDanish86/Backend.git"
+  },
+  "license": "ISC",
+  "author": "Danish",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
